@@ -36,4 +36,5 @@ about:
 
 extra:
   recipe-maintainers:
+    - conda-forge/perl-packagers
     - '0xaf1f'
